@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Vaibhav/Documents/GitHub/manim-projects/media/videos/main/480p15/partial_movie_files/KinematicsDemo/1584795214_3954961847_223132457.mp4'
+file 'file:C:/Users/Vaibhav/Documents/GitHub/manim-projects/media/videos/main/480p15/partial_movie_files/KinematicsDemo/4072820271_1432596116_649997620.mp4'
+file 'file:C:/Users/Vaibhav/Documents/GitHub/manim-projects/media/videos/main/480p15/partial_movie_files/KinematicsDemo/4072820271_3290057479_520628373.mp4'
+file 'file:C:/Users/Vaibhav/Documents/GitHub/manim-projects/media/videos/main/480p15/partial_movie_files/KinematicsDemo/4072820271_182266367_2545996884.mp4'
+file 'file:C:/Users/Vaibhav/Documents/GitHub/manim-projects/media/videos/main/480p15/partial_movie_files/KinematicsDemo/4072820271_1432596116_3950916181.mp4'
