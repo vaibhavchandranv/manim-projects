@@ -1,8 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:C:/Users/Vaibhav/Documents/GitHub/manim-projects/media/videos/main/480p15/partial_movie_files/KinematicsAcceleration/1584795214_3954961847_223132457.mp4'
-file 'file:C:/Users/Vaibhav/Documents/GitHub/manim-projects/media/videos/main/480p15/partial_movie_files/KinematicsAcceleration/4072820271_2574473371_649997620.mp4'
-file 'file:C:/Users/Vaibhav/Documents/GitHub/manim-projects/media/videos/main/480p15/partial_movie_files/KinematicsAcceleration/4072820271_3290057479_520628373.mp4'
-file 'file:C:/Users/Vaibhav/Documents/GitHub/manim-projects/media/videos/main/480p15/partial_movie_files/KinematicsAcceleration/4072820271_775557673_2238205389.mp4'
-file 'file:C:/Users/Vaibhav/Documents/GitHub/manim-projects/media/videos/main/480p15/partial_movie_files/KinematicsAcceleration/4072820271_2606472869_967795464.mp4'
-file 'file:C:/Users/Vaibhav/Documents/GitHub/manim-projects/media/videos/main/480p15/partial_movie_files/KinematicsAcceleration/4072820271_4198955882_670073371.mp4'
-file 'file:C:/Users/Vaibhav/Documents/GitHub/manim-projects/media/videos/main/480p15/partial_movie_files/KinematicsAcceleration/4072820271_1432596116_298439376.mp4'
